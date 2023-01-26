@@ -4,7 +4,7 @@ import { AiFillDelete } from "react-icons/ai";
 import { CartState } from "../context/Context";
 import Rating from "./Rating";
 //import thankyou from "./thankyou";
-import { Link } from 'react-router-dom';
+
 import { useHistory } from 'react-router-dom';
 
 const Cart = () => {
